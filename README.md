@@ -1,6 +1,15 @@
 # Deploy Multiple Azure App Services using GitHub Actions Matrix
 Deploy Multiple Azure App Services using GitHub Actions Matrix
 
+## Slides
+
+https://docs.google.com/presentation/d/1ctnqJfWxpH-s5l7zkvN9tiXReuxeLajauWfsQ9CkGmU/edit?usp=sharing
+
+## Demo Video
+
+<https://www.youtube.com/watch?v=G3Rb15N_zDk>
+
+
 ## Demo Step
 
 ```bash
